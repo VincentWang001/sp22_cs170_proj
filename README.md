@@ -1,5 +1,11 @@
 # Spring 2022 CS170 Project Skeleton
 
+## Instructions
+(Nothing fancy, we just built it off of the skeleton code)
+In the root directory, run python3 python/solve_all.py inputs outputs.
+This will generate a directory of all the outputs based on the inputs.
+Then run tar -czf outputs.tar.gz outputs if you want to covert the outputs directory into a tar file
+
 ## Requirements
 
 A Python skeleton is available in the `python` subdirectory. The Python
